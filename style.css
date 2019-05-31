@@ -1,0 +1,10 @@
+#header-image {
+    max-height: 37px;
+}
+
+.nav-link {
+    font-size: 1.5em;
+    margin-right: 3em;
+    color: white !important;
+    font-weight: bold;
+}

@@ -80,3 +80,9 @@ h2 {
         text-align: center;
     }
 }
+
+@media (max-width: 446px) {
+    #nav-bar {
+        justify-content: center;
+    }
+}

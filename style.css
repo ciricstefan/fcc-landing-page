@@ -71,6 +71,12 @@ h2 {
     margin-top: 5%;
 }
 
+.pricetext {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
 @media (max-width: 973px) {
     .form-control {
         width: 60%;
